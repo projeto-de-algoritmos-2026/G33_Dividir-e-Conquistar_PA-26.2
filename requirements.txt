@@ -1,0 +1,9 @@
+streamlit>=1.40
+folium>=0.17
+streamlit-folium>=0.22
+requests>=2.32
+pandas>=2.2
+pyproj>=3.6
+plotly>=5.24
+python-dotenv>=1.0
+pytest>=8.3

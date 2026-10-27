@@ -1,0 +1,20 @@
+# Segredos locais — NUNCA versionar
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# Dados gerados em tempo de execução
+data/*.db
+data/*.db-journal
+data/exports/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
