@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="40" viewBox="0 0 168 40">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#60A5FA"/></linearGradient></defs>
+  <rect x="0" y="2" width="36" height="36" rx="10" fill="url(#g)"/>
+  <circle cx="10" cy="20" r="4" fill="#0A1628"/><circle cx="26" cy="20" r="4" fill="#0A1628"/>
+  <path d="M14 20h8" stroke="#0A1628" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="2 2.4"/>
+  <text x="46" y="28" font-family="Outfit, Inter, sans-serif" font-size="24" font-weight="700" fill="#F8FAFC">Two<tspan fill="#2DD4BF">Bus</tspan></text>
+</svg>
