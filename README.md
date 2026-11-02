@@ -122,13 +122,12 @@ Na barra lateral escolhe-se entre dados **Reais** (SPTrans) ou **Simulados**. Os
 
 ## Vídeo de Apresentação
 
-<!-- Substitua VIDEO_ID pelo identificador do vídeo no YouTube. -->
 <div align="center">
-  <a href="https://youtu.be/VIDEO_ID">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Apresentação TwoBus - Dividir e Conquistar" width="720">
+  <a href="https://youtu.be/edKz66xoZY8">
+    <img src="https://img.youtube.com/vi/edKz66xoZY8/hqdefault.jpg" alt="Apresentação TwoBus - Dividir e Conquistar" width="720">
   </a>
   <br>
-  <a href="https://youtu.be/VIDEO_ID">🎥 Assistir à Apresentação no YouTube</a>
+  <a href="https://youtu.be/edKz66xoZY8">🎥 <b>Assistir à Apresentação no YouTube (https://youtu.be/edKz66xoZY8)</b></a>
 </div>
 
 ---
